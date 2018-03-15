@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: df5ea278d5ea25f4fb14a65af328e16e
+timeCreated: 1520965090
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Laser_escalada1:laser_modificada_3:group10
+    100002: Laser_escalada1:laser_modificada_3:group11
+    100004: Laser_escalada1:laser_modificada_3:group2
+    100006: Laser_escalada1:laser_modificada_3:group5
+    100008: Laser_escalada1:laser_modificada_3:group6
+    100010: Laser_escalada1:laser_modificada_3:group8
+    100012: Laser_escalada1:laser_modificada_3:group9
+    100014: Laser_escalada1:laser_modificada_3:pCylinder60
+    100016: Laser_escalada1:laser_modificada_3:pCylinder61
+    100018: Laser_escalada1:laser_modificada_3:polySurface115
+    100020: Laser_escalada1:laser_modificada_3:polySurface275
+    100022: Laser_escalada1:laser_modificada_3:polySurface277
+    100024: Laser_escalada1:laser_modificada_3:polySurface281
+    100026: Laser_escalada1:laser_modificada_3:polySurface283
+    100028: Laser_escalada1:laser_modificada_3:polySurface285
+    100030: Laser_escalada1:laser_modificada_3:polySurface332
+    100032: Laser_escalada1:laser_modificada_3:polySurface333
+    100034: Laser_escalada1:laser_modificada_3:polySurface334
+    100036: Laser_escalada1:laser_modificada_3:polySurface335
+    100038: Laser_escalada1:laser_modificada_3:polySurface336
+    100040: Laser_escalada1:laser_modificada_3:polySurface337
+    100042: Laser_escalada1:laser_modificada_3:polySurface338
+    100044: Laser_escalada1:laser_modificada_3:polySurface339
+    100046: Laser_escalada1:laser_modificada_3:polySurface340
+    100048: Laser_escalada1:laser_modificada_3:polySurface341
+    100050: Laser_escalada1:laser_modificada_3:polySurface342
+    100052: Laser_escalada1:laser_modificada_3:polySurface343
+    100054: Laser_escalada1:laser_modificada_3:polySurface344
+    100056: Laser_escalada1:laser_modificada_3:polySurface345
+    100058: Laser_escalada1:laser_modificada_3:polySurface347
+    100060: Laser_escalada1:laser_modificada_3:polySurface347 1
+    100062: Laser_escalada1:laser_modificada_3:polySurface348
+    100064: Laser_escalada1:laser_modificada_3:polySurface348 1
+    100066: Laser_escalada1:laser_modificada_3:polySurface349
+    100068: Laser_escalada1:laser_modificada_3:polySurface349 1
+    100070: Laser_escalada1:laser_modificada_3:polySurface350
+    100072: Laser_escalada1:laser_modificada_3:polySurface350 1
+    100074: Laser_escalada1:laser_modificada_3:polySurface351
+    100076: Laser_escalada1:laser_modificada_3:polySurface351 1
+    100078: Laser_escalada1:laser_modificada_3:polySurface352
+    100080: Laser_escalada1:laser_modificada_3:polySurface352 1
+    100082: Laser_escalada1:laser_modificada_3:polySurface478
+    100084: Laser_escalada1:laser_modificada_3:polySurface492
+    100086: //RootNode
+    400000: Laser_escalada1:laser_modificada_3:group10
+    400002: Laser_escalada1:laser_modificada_3:group11
+    400004: Laser_escalada1:laser_modificada_3:group2
+    400006: Laser_escalada1:laser_modificada_3:group5
+    400008: Laser_escalada1:laser_modificada_3:group6
+    400010: Laser_escalada1:laser_modificada_3:group8
+    400012: Laser_escalada1:laser_modificada_3:group9
+    400014: Laser_escalada1:laser_modificada_3:pCylinder60
+    400016: Laser_escalada1:laser_modificada_3:pCylinder61
+    400018: Laser_escalada1:laser_modificada_3:polySurface115
+    400020: Laser_escalada1:laser_modificada_3:polySurface275
+    400022: Laser_escalada1:laser_modificada_3:polySurface277
+    400024: Laser_escalada1:laser_modificada_3:polySurface281
+    400026: Laser_escalada1:laser_modificada_3:polySurface283
+    400028: Laser_escalada1:laser_modificada_3:polySurface285
+    400030: Laser_escalada1:laser_modificada_3:polySurface332
+    400032: Laser_escalada1:laser_modificada_3:polySurface333
+    400034: Laser_escalada1:laser_modificada_3:polySurface334
+    400036: Laser_escalada1:laser_modificada_3:polySurface335
+    400038: Laser_escalada1:laser_modificada_3:polySurface336
+    400040: Laser_escalada1:laser_modificada_3:polySurface337
+    400042: Laser_escalada1:laser_modificada_3:polySurface338
+    400044: Laser_escalada1:laser_modificada_3:polySurface339
+    400046: Laser_escalada1:laser_modificada_3:polySurface340
+    400048: Laser_escalada1:laser_modificada_3:polySurface341
+    400050: Laser_escalada1:laser_modificada_3:polySurface342
+    400052: Laser_escalada1:laser_modificada_3:polySurface343
+    400054: Laser_escalada1:laser_modificada_3:polySurface344
+    400056: Laser_escalada1:laser_modificada_3:polySurface345
+    400058: Laser_escalada1:laser_modificada_3:polySurface347
+    400060: Laser_escalada1:laser_modificada_3:polySurface347 1
+    400062: Laser_escalada1:laser_modificada_3:polySurface348
+    400064: Laser_escalada1:laser_modificada_3:polySurface348 1
+    400066: Laser_escalada1:laser_modificada_3:polySurface349
+    400068: Laser_escalada1:laser_modificada_3:polySurface349 1
+    400070: Laser_escalada1:laser_modificada_3:polySurface350
+    400072: Laser_escalada1:laser_modificada_3:polySurface350 1
+    400074: Laser_escalada1:laser_modificada_3:polySurface351
+    400076: Laser_escalada1:laser_modificada_3:polySurface351 1
+    400078: Laser_escalada1:laser_modificada_3:polySurface352
+    400080: Laser_escalada1:laser_modificada_3:polySurface352 1
+    400082: Laser_escalada1:laser_modificada_3:polySurface478
+    400084: Laser_escalada1:laser_modificada_3:polySurface492
+    400086: //RootNode
+    2100000: Laser_escalada1_laser_modificada_3_LASER_plastico_negro
+    2100002: Laser_escalada1_laser_modificada_3_LASER_tornillo_dorado
+    2100004: lambert1
+    2100006: Laser_escalada1_laser_modificada_3_LASER_aluminio
+    2100008: Laser_escalada1_laser_modificada_3_LASER_cinta
+    2100010: Laser_escalada1_laser_modificada_3_LASER_cuerpo_gris
+    2100012: Laser_escalada1_laser_modificada_3_LASER_plastico_blanco
+    2100014: Laser_escalada1_laser_modificada_3_LASER_botones_texto
+    2100016: Laser_escalada1_laser_modificada_3_LASER_tubos
+    2100018: Laser_escalada1_laser_modificada_3_LASER_boton_amarillo
+    2100020: Laser_escalada1_laser_modificada_3_LASER_pantalla_gris_claro
+    2100022: Laser_escalada1_laser_modificada_3_LASER_pantalla_gris
+    2100024: Laser_escalada1_laser_modificada_3_LASER_pantalla
+    2100026: Laser_escalada1_laser_modificada_3_LASER_cromo
+    2100028: Laser_escalada1_laser_modificada_3_LASER_tapa_transparente
+    2100030: Laser_escalada1_laser_modificada_3_LASER_textura_superficie
+    2100032: Laser_escalada1_laser_modificada_3_LASER_tapa
+    2100034: Laser_escalada1_laser_modificada_3_LASER_cristal
+    2100036: Laser_escalada1_laser_modificada_3_LASER_boton_rojo
+    2100038: Laser_escalada1_laser_modificada_3_LASER_palanca
+    2100040: Laser_escalada1_laser_modificada_3_LASER_botones_gris
+    2100042: Laser_escalada1_laser_modificada_3_LASER_botones_naranja
+    2100044: Laser_escalada1_laser_modificada_3_LASER_botones
+    2100046: Laser_escalada1_laser_modificada_3_LASER_regulador
+    2300000: Laser_escalada1:laser_modificada_3:pCylinder60
+    2300002: Laser_escalada1:laser_modificada_3:pCylinder61
+    2300004: Laser_escalada1:laser_modificada_3:polySurface115
+    2300006: Laser_escalada1:laser_modificada_3:polySurface275
+    2300008: Laser_escalada1:laser_modificada_3:polySurface277
+    2300010: Laser_escalada1:laser_modificada_3:polySurface281
+    2300012: Laser_escalada1:laser_modificada_3:polySurface283
+    2300014: Laser_escalada1:laser_modificada_3:polySurface285
+    2300016: Laser_escalada1:laser_modificada_3:polySurface332
+    2300018: Laser_escalada1:laser_modificada_3:polySurface333
+    2300020: Laser_escalada1:laser_modificada_3:polySurface334
+    2300022: Laser_escalada1:laser_modificada_3:polySurface335
+    2300024: Laser_escalada1:laser_modificada_3:polySurface336
+    2300026: Laser_escalada1:laser_modificada_3:polySurface337
+    2300028: Laser_escalada1:laser_modificada_3:polySurface338
+    2300030: Laser_escalada1:laser_modificada_3:polySurface339
+    2300032: Laser_escalada1:laser_modificada_3:polySurface340
+    2300034: Laser_escalada1:laser_modificada_3:polySurface341
+    2300036: Laser_escalada1:laser_modificada_3:polySurface342
+    2300038: Laser_escalada1:laser_modificada_3:polySurface343
+    2300040: Laser_escalada1:laser_modificada_3:polySurface344
+    2300042: Laser_escalada1:laser_modificada_3:polySurface345
+    2300044: Laser_escalada1:laser_modificada_3:polySurface347
+    2300046: Laser_escalada1:laser_modificada_3:polySurface347 1
+    2300048: Laser_escalada1:laser_modificada_3:polySurface348
+    2300050: Laser_escalada1:laser_modificada_3:polySurface348 1
+    2300052: Laser_escalada1:laser_modificada_3:polySurface349
+    2300054: Laser_escalada1:laser_modificada_3:polySurface349 1
+    2300056: Laser_escalada1:laser_modificada_3:polySurface350
+    2300058: Laser_escalada1:laser_modificada_3:polySurface350 1
+    2300060: Laser_escalada1:laser_modificada_3:polySurface351
+    2300062: Laser_escalada1:laser_modificada_3:polySurface351 1
+    2300064: Laser_escalada1:laser_modificada_3:polySurface352
+    2300066: Laser_escalada1:laser_modificada_3:polySurface352 1
+    2300068: Laser_escalada1:laser_modificada_3:polySurface478
+    2300070: Laser_escalada1:laser_modificada_3:polySurface492
+    3300000: Laser_escalada1:laser_modificada_3:pCylinder60
+    3300002: Laser_escalada1:laser_modificada_3:pCylinder61
+    3300004: Laser_escalada1:laser_modificada_3:polySurface115
+    3300006: Laser_escalada1:laser_modificada_3:polySurface275
+    3300008: Laser_escalada1:laser_modificada_3:polySurface277
+    3300010: Laser_escalada1:laser_modificada_3:polySurface281
+    3300012: Laser_escalada1:laser_modificada_3:polySurface283
+    3300014: Laser_escalada1:laser_modificada_3:polySurface285
+    3300016: Laser_escalada1:laser_modificada_3:polySurface332
+    3300018: Laser_escalada1:laser_modificada_3:polySurface333
+    3300020: Laser_escalada1:laser_modificada_3:polySurface334
+    3300022: Laser_escalada1:laser_modificada_3:polySurface335
+    3300024: Laser_escalada1:laser_modificada_3:polySurface336
+    3300026: Laser_escalada1:laser_modificada_3:polySurface337
+    3300028: Laser_escalada1:laser_modificada_3:polySurface338
+    3300030: Laser_escalada1:laser_modificada_3:polySurface339
+    3300032: Laser_escalada1:laser_modificada_3:polySurface340
+    3300034: Laser_escalada1:laser_modificada_3:polySurface341
+    3300036: Laser_escalada1:laser_modificada_3:polySurface342
+    3300038: Laser_escalada1:laser_modificada_3:polySurface343
+    3300040: Laser_escalada1:laser_modificada_3:polySurface344
+    3300042: Laser_escalada1:laser_modificada_3:polySurface345
+    3300044: Laser_escalada1:laser_modificada_3:polySurface347
+    3300046: Laser_escalada1:laser_modificada_3:polySurface347 1
+    3300048: Laser_escalada1:laser_modificada_3:polySurface348
+    3300050: Laser_escalada1:laser_modificada_3:polySurface348 1
+    3300052: Laser_escalada1:laser_modificada_3:polySurface349
+    3300054: Laser_escalada1:laser_modificada_3:polySurface349 1
+    3300056: Laser_escalada1:laser_modificada_3:polySurface350
+    3300058: Laser_escalada1:laser_modificada_3:polySurface350 1
+    3300060: Laser_escalada1:laser_modificada_3:polySurface351
+    3300062: Laser_escalada1:laser_modificada_3:polySurface351 1
+    3300064: Laser_escalada1:laser_modificada_3:polySurface352
+    3300066: Laser_escalada1:laser_modificada_3:polySurface352 1
+    3300068: Laser_escalada1:laser_modificada_3:polySurface478
+    3300070: Laser_escalada1:laser_modificada_3:polySurface492
+    4300000: Laser_escalada1:laser_modificada_3:polySurface115
+    4300002: Laser_escalada1:laser_modificada_3:polySurface478
+    4300004: Laser_escalada1:laser_modificada_3:polySurface492
+    4300006: Laser_escalada1:laser_modificada_3:polySurface277
+    4300008: Laser_escalada1:laser_modificada_3:polySurface347
+    4300010: Laser_escalada1:laser_modificada_3:polySurface348
+    4300012: Laser_escalada1:laser_modificada_3:polySurface349
+    4300014: Laser_escalada1:laser_modificada_3:polySurface350
+    4300016: Laser_escalada1:laser_modificada_3:polySurface351
+    4300018: Laser_escalada1:laser_modificada_3:polySurface352
+    4300020: Laser_escalada1:laser_modificada_3:polySurface347
+    4300022: Laser_escalada1:laser_modificada_3:polySurface348
+    4300024: Laser_escalada1:laser_modificada_3:polySurface349
+    4300026: Laser_escalada1:laser_modificada_3:polySurface350
+    4300028: Laser_escalada1:laser_modificada_3:polySurface351
+    4300030: Laser_escalada1:laser_modificada_3:polySurface352
+    4300032: Laser_escalada1:laser_modificada_3:polySurface275
+    4300034: Laser_escalada1:laser_modificada_3:polySurface345
+    4300036: Laser_escalada1:laser_modificada_3:polySurface344
+    4300038: Laser_escalada1:laser_modificada_3:polySurface337
+    4300040: Laser_escalada1:laser_modificada_3:polySurface342
+    4300042: Laser_escalada1:laser_modificada_3:polySurface341
+    4300044: Laser_escalada1:laser_modificada_3:polySurface343
+    4300046: Laser_escalada1:laser_modificada_3:polySurface339
+    4300048: Laser_escalada1:laser_modificada_3:polySurface340
+    4300050: Laser_escalada1:laser_modificada_3:polySurface334
+    4300052: Laser_escalada1:laser_modificada_3:polySurface336
+    4300054: Laser_escalada1:laser_modificada_3:polySurface335
+    4300056: Laser_escalada1:laser_modificada_3:polySurface332
+    4300058: Laser_escalada1:laser_modificada_3:polySurface333
+    4300060: Laser_escalada1:laser_modificada_3:polySurface281
+    4300062: Laser_escalada1:laser_modificada_3:polySurface338
+    4300064: Laser_escalada1:laser_modificada_3:pCylinder60
+    4300066: Laser_escalada1:laser_modificada_3:polySurface285
+    4300068: Laser_escalada1:laser_modificada_3:pCylinder61
+    4300070: Laser_escalada1:laser_modificada_3:polySurface283
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_aluminio
+    second: {fileID: 2100000, guid: e88859fa0926de44cb672869fcf5a573, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_boton_amarillo
+    second: {fileID: 2100000, guid: 54f79d51ad02e08439c006e2bb7b8dbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_boton_rojo
+    second: {fileID: 2100000, guid: 2d065f0d64780be48becadf962d0a4a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_botones
+    second: {fileID: 2100000, guid: 2241da5f28e83cb46ad04ec81ae88b9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_botones_gris
+    second: {fileID: 2100000, guid: 8f0e8d20365a5fa47a34521dc4507216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_botones_naranja
+    second: {fileID: 2100000, guid: f46900e8aaf81a14d82d69d4ac2b4e6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_botones_texto
+    second: {fileID: 2100000, guid: 572d15d86d3ce1340af64e5e4fdb829b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_cinta
+    second: {fileID: 2100000, guid: 465302477283e214db7633521ceb3fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_cristal
+    second: {fileID: 2100000, guid: 3734ba5eab656b54c85c5fd6a9513c74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_cromo
+    second: {fileID: 2100000, guid: 80056129892877845a8c3a24c4a87275, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_cuerpo_gris
+    second: {fileID: 2100000, guid: f4a316846ef3f4c4980c1e2451ed2c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_palanca
+    second: {fileID: 2100000, guid: 021291078b26c83499c8cca01b132fb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_pantalla
+    second: {fileID: 2100000, guid: 2b33032a2445e72468ecf1fc8f58bde6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_pantalla_gris
+    second: {fileID: 2100000, guid: 6fd76cdf6a8a7c6438ef1cbea2d08b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_pantalla_gris_claro
+    second: {fileID: 2100000, guid: 9d0f419df68a7ab43bc2674c1e81f5a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_plastico_blanco
+    second: {fileID: 2100000, guid: a0bd449ae7ca2d344bfd3b73dcae0679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_plastico_negro
+    second: {fileID: 2100000, guid: e1d34e3d0163e044e90cb31fe0b49db5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_regulador
+    second: {fileID: 2100000, guid: 12db08b0ec3f3864f919aae0431c58a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_tapa
+    second: {fileID: 2100000, guid: 4977a77afb7b51c4eb7533b6d780572e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_tapa_transparente
+    second: {fileID: 2100000, guid: 5cf0aef0a453d244dae989e0400233ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_textura_superficie
+    second: {fileID: 2100000, guid: 1e0ec6e04a3f1ac47a6e3235113fe933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_tornillo_dorado
+    second: {fileID: 2100000, guid: 3de03209c89384843867760d01ddb4d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laser_escalada1_laser_modificada_3_LASER_tubos
+    second: {fileID: 2100000, guid: 2b947c23a789e604c9414ee7fcde3265, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: a839d9ab2e2b73449b8b8c691f1271ee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 70
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

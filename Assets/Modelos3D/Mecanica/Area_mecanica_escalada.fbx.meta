@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 548dd2da6b7280b48a0f5eb0e1a1a7b5
+timeCreated: 1520966983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Area_mecanica_escalada:AreaMecanica__1_1:group10
+    100004: Area_mecanica_escalada:AreaMecanica__1_1:group11
+    100006: Area_mecanica_escalada:AreaMecanica__1_1:group12
+    100008: Area_mecanica_escalada:AreaMecanica__1_1:group2
+    100010: Area_mecanica_escalada:AreaMecanica__1_1:group3
+    100012: Area_mecanica_escalada:AreaMecanica__1_1:group4
+    100014: Area_mecanica_escalada:AreaMecanica__1_1:group5
+    100016: Area_mecanica_escalada:AreaMecanica__1_1:group7
+    100018: Area_mecanica_escalada:AreaMecanica__1_1:group8
+    100020: Area_mecanica_escalada:AreaMecanica__1_1:group9
+    100022: Area_mecanica_escalada:AreaMecanica__1_1:polySurface124
+    100024: Area_mecanica_escalada:AreaMecanica__1_1:polySurface260
+    100026: Area_mecanica_escalada:AreaMecanica__1_1:polySurface263
+    100028: Area_mecanica_escalada:AreaMecanica__1_1:polySurface277
+    100030: Area_mecanica_escalada:AreaMecanica__1_1:polySurface292
+    100032: Area_mecanica_escalada:AreaMecanica__1_1:polySurface299
+    100034: Area_mecanica_escalada:AreaMecanica__1_1:polySurface300
+    100036: Area_mecanica_escalada:AreaMecanica__1_1:polySurface301
+    100038: Area_mecanica_escalada:AreaMecanica__1_1:polySurface302
+    100040: Area_mecanica_escalada:AreaMecanica__1_1:polySurface304
+    100042: Area_mecanica_escalada:AreaMecanica__1_1:polySurface305
+    100044: Area_mecanica_escalada:AreaMecanica__1_1:polySurface306
+    100046: Area_mecanica_escalada:AreaMecanica__1_1:polySurface307
+    100048: Area_mecanica_escalada:AreaMecanica__1_1:polySurface308
+    100050: Area_mecanica_escalada:AreaMecanica__1_1:polySurface309
+    100052: Area_mecanica_escalada:AreaMecanica__1_1:polySurface310
+    100054: Area_mecanica_escalada:AreaMecanica__1_1:polySurface311
+    100056: Area_mecanica_escalada:AreaMecanica__1_1:polySurface554
+    100058: Area_mecanica_escalada:AreaMecanica__1_1:pSphere1
+    100060: group203
+    100062: group204
+    100064: group205
+    400000: //RootNode
+    400002: Area_mecanica_escalada:AreaMecanica__1_1:group10
+    400004: Area_mecanica_escalada:AreaMecanica__1_1:group11
+    400006: Area_mecanica_escalada:AreaMecanica__1_1:group12
+    400008: Area_mecanica_escalada:AreaMecanica__1_1:group2
+    400010: Area_mecanica_escalada:AreaMecanica__1_1:group3
+    400012: Area_mecanica_escalada:AreaMecanica__1_1:group4
+    400014: Area_mecanica_escalada:AreaMecanica__1_1:group5
+    400016: Area_mecanica_escalada:AreaMecanica__1_1:group7
+    400018: Area_mecanica_escalada:AreaMecanica__1_1:group8
+    400020: Area_mecanica_escalada:AreaMecanica__1_1:group9
+    400022: Area_mecanica_escalada:AreaMecanica__1_1:polySurface124
+    400024: Area_mecanica_escalada:AreaMecanica__1_1:polySurface260
+    400026: Area_mecanica_escalada:AreaMecanica__1_1:polySurface263
+    400028: Area_mecanica_escalada:AreaMecanica__1_1:polySurface277
+    400030: Area_mecanica_escalada:AreaMecanica__1_1:polySurface292
+    400032: Area_mecanica_escalada:AreaMecanica__1_1:polySurface299
+    400034: Area_mecanica_escalada:AreaMecanica__1_1:polySurface300
+    400036: Area_mecanica_escalada:AreaMecanica__1_1:polySurface301
+    400038: Area_mecanica_escalada:AreaMecanica__1_1:polySurface302
+    400040: Area_mecanica_escalada:AreaMecanica__1_1:polySurface304
+    400042: Area_mecanica_escalada:AreaMecanica__1_1:polySurface305
+    400044: Area_mecanica_escalada:AreaMecanica__1_1:polySurface306
+    400046: Area_mecanica_escalada:AreaMecanica__1_1:polySurface307
+    400048: Area_mecanica_escalada:AreaMecanica__1_1:polySurface308
+    400050: Area_mecanica_escalada:AreaMecanica__1_1:polySurface309
+    400052: Area_mecanica_escalada:AreaMecanica__1_1:polySurface310
+    400054: Area_mecanica_escalada:AreaMecanica__1_1:polySurface311
+    400056: Area_mecanica_escalada:AreaMecanica__1_1:polySurface554
+    400058: Area_mecanica_escalada:AreaMecanica__1_1:pSphere1
+    400060: group203
+    400062: group204
+    400064: group205
+    2100000: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_aluminio
+    2100002: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_boton_verde
+    2100004: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_azul
+    2100006: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_blanco
+    2100008: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_negro
+    2100010: lambert2
+    2100012: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_dorado
+    2100014: Area_mecanica_escalada_AreaMecanica__1_1_lambert10
+    2100016: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_amarillo
+    2300000: Area_mecanica_escalada:AreaMecanica__1_1:polySurface124
+    2300002: Area_mecanica_escalada:AreaMecanica__1_1:polySurface260
+    2300004: Area_mecanica_escalada:AreaMecanica__1_1:polySurface263
+    2300006: Area_mecanica_escalada:AreaMecanica__1_1:polySurface277
+    2300008: Area_mecanica_escalada:AreaMecanica__1_1:polySurface292
+    2300010: Area_mecanica_escalada:AreaMecanica__1_1:polySurface299
+    2300012: Area_mecanica_escalada:AreaMecanica__1_1:polySurface300
+    2300014: Area_mecanica_escalada:AreaMecanica__1_1:polySurface301
+    2300016: Area_mecanica_escalada:AreaMecanica__1_1:polySurface302
+    2300018: Area_mecanica_escalada:AreaMecanica__1_1:polySurface304
+    2300020: Area_mecanica_escalada:AreaMecanica__1_1:polySurface305
+    2300022: Area_mecanica_escalada:AreaMecanica__1_1:polySurface306
+    2300024: Area_mecanica_escalada:AreaMecanica__1_1:polySurface307
+    2300026: Area_mecanica_escalada:AreaMecanica__1_1:polySurface308
+    2300028: Area_mecanica_escalada:AreaMecanica__1_1:polySurface309
+    2300030: Area_mecanica_escalada:AreaMecanica__1_1:polySurface310
+    2300032: Area_mecanica_escalada:AreaMecanica__1_1:polySurface311
+    2300034: Area_mecanica_escalada:AreaMecanica__1_1:polySurface554
+    2300036: Area_mecanica_escalada:AreaMecanica__1_1:pSphere1
+    3300000: Area_mecanica_escalada:AreaMecanica__1_1:polySurface124
+    3300002: Area_mecanica_escalada:AreaMecanica__1_1:polySurface260
+    3300004: Area_mecanica_escalada:AreaMecanica__1_1:polySurface263
+    3300006: Area_mecanica_escalada:AreaMecanica__1_1:polySurface277
+    3300008: Area_mecanica_escalada:AreaMecanica__1_1:polySurface292
+    3300010: Area_mecanica_escalada:AreaMecanica__1_1:polySurface299
+    3300012: Area_mecanica_escalada:AreaMecanica__1_1:polySurface300
+    3300014: Area_mecanica_escalada:AreaMecanica__1_1:polySurface301
+    3300016: Area_mecanica_escalada:AreaMecanica__1_1:polySurface302
+    3300018: Area_mecanica_escalada:AreaMecanica__1_1:polySurface304
+    3300020: Area_mecanica_escalada:AreaMecanica__1_1:polySurface305
+    3300022: Area_mecanica_escalada:AreaMecanica__1_1:polySurface306
+    3300024: Area_mecanica_escalada:AreaMecanica__1_1:polySurface307
+    3300026: Area_mecanica_escalada:AreaMecanica__1_1:polySurface308
+    3300028: Area_mecanica_escalada:AreaMecanica__1_1:polySurface309
+    3300030: Area_mecanica_escalada:AreaMecanica__1_1:polySurface310
+    3300032: Area_mecanica_escalada:AreaMecanica__1_1:polySurface311
+    3300034: Area_mecanica_escalada:AreaMecanica__1_1:polySurface554
+    3300036: Area_mecanica_escalada:AreaMecanica__1_1:pSphere1
+    4300000: Area_mecanica_escalada:AreaMecanica__1_1:polySurface260
+    4300002: Area_mecanica_escalada:AreaMecanica__1_1:polySurface277
+    4300004: Area_mecanica_escalada:AreaMecanica__1_1:pSphere1
+    4300006: Area_mecanica_escalada:AreaMecanica__1_1:polySurface263
+    4300008: Area_mecanica_escalada:AreaMecanica__1_1:polySurface554
+    4300010: Area_mecanica_escalada:AreaMecanica__1_1:polySurface305
+    4300012: Area_mecanica_escalada:AreaMecanica__1_1:polySurface307
+    4300014: Area_mecanica_escalada:AreaMecanica__1_1:polySurface309
+    4300016: Area_mecanica_escalada:AreaMecanica__1_1:polySurface306
+    4300018: Area_mecanica_escalada:AreaMecanica__1_1:polySurface308
+    4300020: Area_mecanica_escalada:AreaMecanica__1_1:polySurface310
+    4300022: Area_mecanica_escalada:AreaMecanica__1_1:polySurface311
+    4300024: Area_mecanica_escalada:AreaMecanica__1_1:polySurface124
+    4300026: Area_mecanica_escalada:AreaMecanica__1_1:polySurface299
+    4300028: Area_mecanica_escalada:AreaMecanica__1_1:polySurface292
+    4300030: Area_mecanica_escalada:AreaMecanica__1_1:polySurface300
+    4300032: Area_mecanica_escalada:AreaMecanica__1_1:polySurface301
+    4300034: Area_mecanica_escalada:AreaMecanica__1_1:polySurface302
+    4300036: Area_mecanica_escalada:AreaMecanica__1_1:polySurface304
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_aluminio
+    second: {fileID: 2100000, guid: fd49ee2425496b5478dd42198adcd756, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_amarillo
+    second: {fileID: 2100000, guid: e5a4aea688b44f14da1767c24ad7fb94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_azul
+    second: {fileID: 2100000, guid: 5300b78fb8032804495b8aeaebd00918, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_blanco
+    second: {fileID: 2100000, guid: f41f5e84fb195e24d887ef36700668ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_boton_verde
+    second: {fileID: 2100000, guid: 37e3a7a513d18b142a1e131108b2cd5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_dorado
+    second: {fileID: 2100000, guid: 77d34dcd5d99ea7449e53d3f0f3b22b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_MECANICA_negro
+    second: {fileID: 2100000, guid: 448e3e90943bc7f44b6ce7e09f5ea3f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Area_mecanica_escalada_AreaMecanica__1_1_lambert10
+    second: {fileID: 2100000, guid: 1b4f35bbb470d94408abfc75b48c4870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: fd49ee2425496b5478dd42198adcd756, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 70
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

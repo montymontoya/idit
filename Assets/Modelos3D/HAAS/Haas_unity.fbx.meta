@@ -1,0 +1,339 @@
+fileFormatVersion: 2
+guid: 591be003dd3b4cb43a0a8404c0d7c6dd
+timeCreated: 1520891169
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Haas_capas_2017_combinado_:group42_pSphere69
+    100002: Haas_capas_2017_combinado_:group84
+    100004: Haas_capas_2017_combinado_:group85
+    100006: Haas_capas_2017_combinado_:pCube262
+    100008: Haas_capas_2017_combinado_:pCube398
+    100010: Haas_capas_2017_combinado_:polySurface46
+    100012: Haas_capas_2017_combinado_:polySurface55
+    100014: Haas_capas_2017_combinado_:polySurface76
+    100016: Haas_capas_2017_combinado_:pPlane10
+    100018: //RootNode
+    400000: Haas_capas_2017_combinado_:group42_pSphere69
+    400002: Haas_capas_2017_combinado_:group84
+    400004: Haas_capas_2017_combinado_:group85
+    400006: Haas_capas_2017_combinado_:pCube262
+    400008: Haas_capas_2017_combinado_:pCube398
+    400010: Haas_capas_2017_combinado_:polySurface46
+    400012: Haas_capas_2017_combinado_:polySurface55
+    400014: Haas_capas_2017_combinado_:polySurface76
+    400016: Haas_capas_2017_combinado_:pPlane10
+    400018: //RootNode
+    2100000: Haas_capas_2017_combinado__haas_plastico_negro
+    2100002: Haas_capas_2017_combinado__haas_boton_gris_claro
+    2100004: Haas_capas_2017_combinado__haas_boton_negro
+    2100006: Haas_capas_2017_combinado__haas_foco_gris
+    2100008: Haas_capas_2017_combinado__haas_plastico_blanco
+    2100010: Haas_capas_2017_combinado__haas_logo_aluminio
+    2100012: Haas_capas_2017_combinado__haas_boton_azul
+    2100014: Haas_capas_2017_combinado__haas_boton_amarillo
+    2100016: Haas_capas_2017_combinado__haas_aluminio_cepillado
+    2100018: Haas_capas_2017_combinado__haas_boton_verde
+    2100020: Haas_capas_2017_combinado__haas_boton_rojo
+    2100022: Haas_capas_2017_combinado__haas_logo_rojo
+    2100024: Haas_capas_2017_combinado__haas_aluminio
+    2100026: Haas_capas_2017_combinado__haas_boton_gris
+    2100028: Haas_capas_2017_combinado__haas_cromo
+    2100030: Haas_capas_2017_combinado__haas_pantalla
+    2100032: Haas_capas_2017_combinado__haas_base_blanco
+    2100034: Haas_capas_2017_combinado__haas_boton_naranja
+    2100036: Haas_capas_2017_combinado__haas_interior_rojo
+    2100038: Haas_capas_2017_combinado__haas_base_negro
+    2100040: Haas_capas_2017_combinado__haas_dorado
+    2100042: Haas_capas_2017_combinado__haas_etiqueta3
+    2100044: Haas_capas_2017_combinado__haas_etiqueta_logo
+    2100046: Haas_capas_2017_combinado__haas_etiqueta_vf1
+    2100048: Haas_capas_2017_combinado__haas_etiqueta1
+    2100050: Haas_capas_2017_combinado__haas_etiqueta2
+    2100052: Haas_capas_2017_combinado__haas_tubos_negros
+    2100054: Haas_capas_2017_combinado__haas_plastico_negro_mate
+    2100056: Haas_capas_2017_combinado__haas_trasera
+    2100058: Haas_capas_2017_combinado__haas_cristales
+    2100060: Haas_capas_2017_combinado__haas_rojo
+    2100062: Haas_capas_2017_combinado__haas_etiqueta5
+    2100064: Haas_capas_2017_combinado__haas_etiqueta4
+    2100066: Haas_capas_2017_combinado__haas_libreta
+    2300000: Haas_capas_2017_combinado_:group42_pSphere69
+    2300002: Haas_capas_2017_combinado_:group84
+    2300004: Haas_capas_2017_combinado_:group85
+    2300006: Haas_capas_2017_combinado_:pCube262
+    2300008: Haas_capas_2017_combinado_:pCube398
+    2300010: Haas_capas_2017_combinado_:polySurface46
+    2300012: Haas_capas_2017_combinado_:polySurface55
+    2300014: Haas_capas_2017_combinado_:polySurface76
+    2300016: Haas_capas_2017_combinado_:pPlane10
+    3300000: Haas_capas_2017_combinado_:group42_pSphere69
+    3300002: Haas_capas_2017_combinado_:group84
+    3300004: Haas_capas_2017_combinado_:group85
+    3300006: Haas_capas_2017_combinado_:pCube262
+    3300008: Haas_capas_2017_combinado_:pCube398
+    3300010: Haas_capas_2017_combinado_:polySurface46
+    3300012: Haas_capas_2017_combinado_:polySurface55
+    3300014: Haas_capas_2017_combinado_:polySurface76
+    3300016: Haas_capas_2017_combinado_:pPlane10
+    4300000: Haas_capas_2017_combinado_:pCube398
+    4300002: Haas_capas_2017_combinado_:polySurface55
+    4300004: Haas_capas_2017_combinado_:pPlane10
+    4300006: Haas_capas_2017_combinado_:group42_pSphere69
+    4300008: Haas_capas_2017_combinado_:group85
+    4300010: Haas_capas_2017_combinado_:group84
+    4300012: Haas_capas_2017_combinado_:pCube262
+    4300014: Haas_capas_2017_combinado_:polySurface76
+    4300016: Haas_capas_2017_combinado_:polySurface46
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_aluminio
+    second: {fileID: 2100000, guid: 8a0b92874878a654887c3872f124dc8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_aluminio_cepillado
+    second: {fileID: 2100000, guid: 4dee239430c9ff24381159aaec7b0572, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_base_blanco
+    second: {fileID: 2100000, guid: 2a7be25612704ba4abcea3d70f8301a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_base_negro
+    second: {fileID: 2100000, guid: 6050ff4578345b9429ac7c556bf47322, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_amarillo
+    second: {fileID: 2100000, guid: 9c7c787db191f664595185c986dcc5a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_azul
+    second: {fileID: 2100000, guid: d742ac4f1624b3341aa1c517c8b0eeec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_gris
+    second: {fileID: 2100000, guid: 02e537e8943a8af4ca9143c05f68d7d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_gris_claro
+    second: {fileID: 2100000, guid: 176da46b6cf989248b647bebd5a49465, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_naranja
+    second: {fileID: 2100000, guid: 22aa1ad5c1ad43b40aca20694c3a4151, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_negro
+    second: {fileID: 2100000, guid: cfb369dbffa101e49b2452c00adc25f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_rojo
+    second: {fileID: 2100000, guid: 30fe77ccbc961ec47baa4b5611fa3084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_boton_verde
+    second: {fileID: 2100000, guid: c3a0df4c89a21a24d8467d107dba35b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_cristales
+    second: {fileID: 2100000, guid: fa8a6b18b91d5694ebcbee8f54c82e16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_cromo
+    second: {fileID: 2100000, guid: f601bb18746647e4396c6b63bf3c4af8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_dorado
+    second: {fileID: 2100000, guid: 0dcea69f1515dde4a94df6b093d7e70e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta1
+    second: {fileID: 2100000, guid: 3774ed1dbd3911143983920735b13d8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta2
+    second: {fileID: 2100000, guid: 592208c697352c543943cf8cda5fde1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta3
+    second: {fileID: 2100000, guid: 7674ee4bf26c9144da8e33430fa1512d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta4
+    second: {fileID: 2100000, guid: 11eae6dcd841cf04583626eadb3c13c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta5
+    second: {fileID: 2100000, guid: 1bee14b530a926941834ea8bd9178801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta_logo
+    second: {fileID: 2100000, guid: 17d93f87951c32f4a8bd67cf7de74106, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_etiqueta_vf1
+    second: {fileID: 2100000, guid: 587e6982e93810d4d8dfada910a6f915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_foco_gris
+    second: {fileID: 2100000, guid: 92722a86e32c4c145a0cc8a33e1b4081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_interior_rojo
+    second: {fileID: 2100000, guid: 918ef137861391e42976106e6d08affa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_libreta
+    second: {fileID: 2100000, guid: 82b1635705cbfb04883285ad5fb768b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_logo_aluminio
+    second: {fileID: 2100000, guid: 200a1a3c77dd7e844a11e4b4fcb0c626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_logo_rojo
+    second: {fileID: 2100000, guid: b6046d5713c97c2438588bb1e5375d85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_pantalla
+    second: {fileID: 2100000, guid: 9c92345ffd1d68e40aa144e80859c343, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_plastico_blanco
+    second: {fileID: 2100000, guid: a73e3cf9510ad424a8a284832715e2cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_plastico_negro
+    second: {fileID: 2100000, guid: 000738552b10d544b84a4aea9b5834c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_plastico_negro_mate
+    second: {fileID: 2100000, guid: 1944546184addb545be90d23a82dd077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_rojo
+    second: {fileID: 2100000, guid: 62465f7d60745fd4cb27a220d7dc736c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_trasera
+    second: {fileID: 2100000, guid: 7bb4faf02db59ea45b2e76091010fb0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haas_capas_2017_combinado__haas_tubos_negros
+    second: {fileID: 2100000, guid: 877f2e8ff8fbc4640bdba3b17c4241b6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ElcieloResplandeceAmiAlrededor.unity
+    guid: 58a6bf7447eaf1541bf7e88ea0b5864d
